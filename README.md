@@ -106,3 +106,14 @@ conn = psycopg2.connect(
     password="your_password",
     database="ecommerce_db"
 )
+```
+## Author - Md Rifat sarker
+
+For more information about me, please connect with following link:
+
+- **FaceBook**: [Profile Link](https://www.facebook.com/md.rifat.sarker.268451/)
+- **Instagram**: [Profile Link](https://www.instagram.com/md_rifat_sarker/)
+- **LinkedIn**: [Profile Link](https://www.linkedin.com/in/mdrifatsarker/)
+
+Thank you for your support, and I look forward to connecting with you!
+---
